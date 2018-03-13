@@ -1,0 +1,2 @@
+# codepush
+autofetch
